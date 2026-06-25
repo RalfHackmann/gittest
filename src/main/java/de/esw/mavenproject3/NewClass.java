@@ -30,6 +30,7 @@ public class NewClass  extends javax.swing.JFrame {
             new NewJPanel().setVisible(true);
             System.out.println("Hallo Java!");
             new NewJFrame().setVisible(true);
+            System.out.println("Hallo Java!");
         });
     }
     
