@@ -10,4 +10,9 @@ package de.esw.mavenproject3;
  */
 public class NewClass1 {
     
+    public static void hello() {
+    
+    System.out.println("Hello");
+    
+    }
 }
